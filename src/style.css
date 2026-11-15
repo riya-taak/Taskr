@@ -13,7 +13,7 @@ body {
   justify-content: start;
   align-items: center;
   gap: 15px;
-  background: linear-gradient(180deg, #b4ffdb, #00ac59);
+  background: linear-gradient(180deg, #ede3ff, #7d4dc1);
 }
 
 #contanior {
@@ -27,7 +27,7 @@ body {
 }
 
 .title {
-  color: #00502a;
+  color: #2b0264;
 }
 
 .list {
@@ -77,7 +77,7 @@ body {
 }
 
 .addColor {
-  background-color: #00502a;
+  background-color:black;
 }
 
 .dltColor {
@@ -86,7 +86,7 @@ body {
 }
 
 .editColor {
-  background-color: rgb(35, 119, 193);
+  background-color: rgb(114, 37, 247);
   padding: 5px 10px;
 }
 
